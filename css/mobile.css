@@ -1,0 +1,146 @@
+
+
+@media all screen and (min-width:375px;) and (max-width: 414px; ){
+
+        h1{
+            font-family: 'Playfair Display'; 
+        }
+
+        .navbar{
+            background-color: #000000; 
+            height: 62px; 
+            color: white; 
+            align-items: center; 
+            font-style: normal;
+            display: flex; 
+            justify-content: space-around;
+            position: fixed;
+            top: 0;
+            width: 100%;  
+        
+
+        }
+
+        .navleft{
+            display: flex;
+            color: #71EEB8; 
+            align-items: center; 
+          
+        }
+
+        .navright{
+        
+        display: flex; 
+        align-items: center;
+
+        
+        }
+
+        .navcenter{
+        font-size: 30px; 
+        font-style: italic; 
+        letter-spacing: 10px; 
+        
+        }
+
+        .body{
+            background-color: rgba(0,0,0,0.85);
+            height: 743px; 
+            width:100%;  
+            
+        }
+
+        .bodyheading{
+            color: white; 
+            font-family: 'Playfair Display';
+            font-size: 48px; 
+            font-weight: bold; 
+            margin: 0; 
+            padding-top: 183px; 
+            display: flex; 
+            justify-content: center; 
+        }
+
+        .bodyheadingtwo{
+            color: white; 
+            font-family: 'Playfair Display';
+            font-size: 36px; 
+            font-weight: normal; 
+            display: flex; 
+            justify-content: center; 
+        }
+
+        .buttons{
+            margin: 0; 
+            display: flex;
+            justify-content: center; 
+            justify-content: space-evenly; 
+            padding: 50px; 
+            flex-direction: row;  
+        }
+
+        .casestudies{
+            margin-top: 120px; 
+            text-align: center; 
+            width: 100%; 
+
+            
+            
+        }
+
+        .csheading{
+            font-family: 'Playfair Display'; 
+            font-size: 48px; 
+        
+        }
+
+        .cspics{
+            
+        }
+
+        .aboutme{
+            background-color: rgba(0,0,0,0.85);
+            height: 800px; 
+            color: white;
+            margin-top: 88px; 
+            width: 100%;
+            
+        }
+
+        .aboutmeheading{
+            font-family: 'Playfair Display'; 
+            font-size: 30px;
+            padding-top: 20px; 
+
+        }
+
+        p{
+            width: 465px; 
+            height: 117px;
+            color: white; 
+            font-family: 'Playfair Display'; 
+            font-size: 24px; 
+            font-weight: normal;
+        }
+
+        .sections{
+            display: flex; 
+        
+            justify-content: space-around; 
+        }
+
+        .skills{
+            padding-top: 40px; 
+        
+        }
+
+        li{
+            list-style: none;
+            font-family: 'Playfair Display'; 
+            font-size: 36px; 
+            font-style: italic; 
+            padding: 10px; 
+
+        }
+    
+}
